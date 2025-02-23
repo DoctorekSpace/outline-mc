@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/iron_axe"
+        },
+        "cases": [
+            {
+                "when": "silver_axe",
+                "model": {
+                    "type": "model",
+                    "model": "item/silver_axe"
+                }
+            }
+        ]
+    }
+}

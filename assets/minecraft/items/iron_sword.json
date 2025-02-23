@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/iron_sword"
+        },
+        "cases": [
+            {
+                "when": "silver_sword",
+                "model": {
+                    "type": "model",
+                    "model": "item/silver_sword"
+                }
+            }
+        ]
+    }
+}
