@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 46,
+    "supported_formats": {
+			"min_inclusive": 15,
+			"max_inclusive": 46
+		},
     "description": "\u00a76Outline Fantasy 1.21.4\n\u00a7edev1.0.2"
   }
 }
