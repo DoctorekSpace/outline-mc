@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "hanging=true": [
+		{ "model": "block/lantern/hanging_lantern"},
+		{ "model": "block/lantern/hanging_lantern_45"},
+		{ "model": "block/lantern/hanging_lantern_22"},
+		{ "model": "block/lantern/hanging_lantern_-22"}
+		],
+        "hanging=false": [
+		{ "model": "block/lantern/lantern"},
+		{ "model": "block/lantern/lantern_45"},
+		{ "model": "block/lantern/lantern_22"},
+		{ "model": "block/lantern/lantern_-22"}
+		]
+  }
+}
