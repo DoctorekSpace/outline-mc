@@ -1,5 +1,6 @@
 # EN - Outline-mc
 Minecraft resource pack created for the Outline Projects.
+The resourcepack contains several custom textures that can only be obtained by changing the item's custom data model in the game.
 
 ## Instalation
 - Download latest archive.
