@@ -1,4 +1,4 @@
-# Outline MC
+# Outline MC 1.0.2
 Minecraft resource pack created for the Outline Projects.
 The resourcepack contains several custom textures that can only be obtained by changing the item's custom data model in the game.
 It also includes changes to the textures of some blocks, the appearance of plants, equipment and mobs, so that everything works together to create the fantastic world of the outline server.
