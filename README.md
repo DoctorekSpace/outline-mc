@@ -9,6 +9,7 @@ Minecraft resource pack created for the Outline Projects.
 
 # PL - Outline-mc 
 Pakiet zasobów Minecraft stworzony dla projektu Outline.
+Resourcepack zawiera kilka customoch tekstór, które otrzyamć można jedynie zmieniając custom model data itemu w grze.
 
 ## Instalacja
 - Pobierz najnowsze archiwum.
