@@ -11,12 +11,6 @@ It also includes changes to the textures of some blocks, the appearance of plant
 - Bookcases
 - Barrels
 
-## Instalation
-- Download latest archive.
-- Drag archive to resourcepack minecraft folder.
-- If the resource pack does not show up, unpack the archive.
-
-
 # PL - Outline-mc 
 Pakiet zasobów Minecraft stworzony dla projektu Outline.
 Resourcepack zawiera kilka customoch tekstór, które otrzyamć można jedynie zmieniając custom model data itemu w grze.
@@ -30,7 +24,7 @@ Zawiera także zmienione tekstóry niektórych bloków, wygląd roślin, ekwipun
 - Biblioteczki
 - Beczki
 
-## Instalacja
-- Pobierz najnowsze archiwum.
-- Przeciągnij archiwum do folderu Resourcepack Minecraft.
-- Jeśli pakiet zasobów nie pojawi się, rozpakuj archiwum.
+## Instalation
+- Download latest archive.
+- Drag archive to resourcepack minecraft folder.
+- If the resource pack does not show up, unpack the archive.
