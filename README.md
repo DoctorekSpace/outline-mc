@@ -15,6 +15,8 @@ It also includes changes to the textures of some blocks, the appearance of plant
 ## TODO 💡
 - Shield
 - Flowers
+- Fantasy equipment
+- Steampunk equipment
 
 ## Instalation ⚙️
 - Download latest archive.
