@@ -5,7 +5,7 @@ It also includes changes to the textures of some blocks, the appearance of plant
 
 ## Includes 📚
 - Gold Coins
-- Silver tool
+- Silver tools
 - Armor appearance
 - TNT and Creeper
 - Elytra
