@@ -19,7 +19,7 @@ It also includes changes to the textures of some blocks, the appearance of plant
 - Steampunk equipment
 
 ## Instalation ⚙️
-- Download latest archive. https://github.com/DoctorekSpace/outline-mc/releases/tag/1.0.2
+- Download latest archive. [Download](https://github.com/DoctorekSpace/outline-mc/releases/tag/1.0.2)
 - Drag archive to resourcepack minecraft folder.
 - If the resource pack does not show up, unpack the archive.
 
