@@ -15,6 +15,7 @@ It also includes changes to the textures of some blocks, the appearance of plant
 ## TODO 💡
 - Shield
 - Flowers
+- Grass
 - Fantasy equipment
 - Steampunk equipment
 
