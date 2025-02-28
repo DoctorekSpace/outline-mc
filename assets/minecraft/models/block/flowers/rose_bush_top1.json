@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "block/flowers/rose_bush_top1"
+    }
+}
